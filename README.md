@@ -22,14 +22,14 @@ Open the starter project in Android Studio
 
 3. Add the safe-arg plugin to the main and app build.gradle file ----------> CHECK
 
-4. Create a new navigation xml file
+4. Create a new navigation xml file ----------> CHECK
 
-5. Create a new Login destination.
+5. Create a new Login destination. ----------> CHECK
 
-   * Include email and password labels 
+   * Include email and password labels  ----------> CHECK
 
-   - Include email and password fields
-   - Create buttons for creating a new login and logging in with an existing account
+   - Include email and password fields ----------> CHECK
+   - Create buttons for creating a new login and logging in with an existing account ----------> CHECK
    - Clicking either button should navigate to the Welcome Screen.
 
 6. Create a new Welcome screen destination that includes:
