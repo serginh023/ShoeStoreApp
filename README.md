@@ -51,11 +51,11 @@ Open the starter project in Android Studio
 9. Create a new Shoe List destination that includes:
 
    * A new layout ----------> CHECK
-   * A ScrollView
-   * A LinearLayout for Shoe Items
-   * A FloatingActionButton with an action to navigate to the shoe detail screen
+   * A ScrollView ----------> CHECK
+   * A LinearLayout for Shoe Items ----------> CHECK
+   * A FloatingActionButton with an action to navigate to the shoe detail screen ----------> CHECK
 
-10. In MainActivity, setup the nav controller with the toolbar and an AppBarConfiguration.
+10. In MainActivity, setup the nav controller with the toolbar and an AppBarConfiguration. ----------> CHECK
 
 11. Create a new Shoe Detail destination that includes:
 
