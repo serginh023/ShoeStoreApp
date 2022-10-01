@@ -34,7 +34,7 @@ Open the starter project in Android Studio
 
 6. Create a new Welcome screen destination that includes:
 
-   * A new layout
+   * A new layout ----------> CHECK
    * At least 2 textviews
    * A navigation button with actions to navigate to the instructions screen
 
