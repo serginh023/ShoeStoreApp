@@ -1,4 +1,5 @@
 <resources>
+    <!-- LOGIN -->
     <string name="app_name">ShoeStore</string>
     <string name="login_email">E-mail</string>
     <string name="login_password">Password</string>
@@ -9,6 +10,13 @@
     <string name="welcome_text">Welcome to my first App!</string>
     <string name="welcome_text_description">This is a App to create a new shoe</string>
     <string name="welcome_button_get_in">Get in</string>
+    <!-- INSTRUCTIONS -->
+    <string name="instructions_button_ready">I am ready</string>
+    <string name="instructions_text">Instructions</string>
+    <string name="instructions_text_description">This is a description of the instructions</string>
+    <!-- SHOES LIST -->
+    <string name="shoeslist">I am ready</string>
+    <!-- ADD A NEW SHOE -->
 
 
 </resources>

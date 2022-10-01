@@ -32,16 +32,16 @@ Open the starter project in Android Studio
    - Create buttons for creating a new login and logging in with an existing account ----------> CHECK
    - Clicking either button should navigate to the Welcome Screen.
 
-6. Create a new Welcome screen destination that includes:
+6. Create a new Welcome screen destination that includes: ----------> CHECK
 
    * A new layout ----------> CHECK
-   * At least 2 textviews
-   * A navigation button with actions to navigate to the instructions screen
+   * At least 2 textviews ----------> CHECK
+   * A navigation button with actions to navigate to the instructions screen ----------> CHECK
 
 7. Create a new Instruction destination that includes:
 
-   * A new layout
-   * At least 2 textviews
+   * A new layout ----------> CHECK
+   * At least 2 textviews ----------> CHECK
    * A navigation button with actions to navigate to the shoe list screen
 
 8. Create a class that extends ViewModel
