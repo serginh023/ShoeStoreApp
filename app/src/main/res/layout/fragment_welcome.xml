@@ -31,7 +31,7 @@
             app:layout_constraintTop_toBottomOf="@+id/welcome_text" />
 
         <Button
-            android:id="@+id/WelcomGetIntButton"
+            android:id="@+id/WelcomeGetIntButton"
             style="@style/button_standard"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

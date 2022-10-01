@@ -38,11 +38,11 @@ Open the starter project in Android Studio
    * At least 2 textviews ----------> CHECK
    * A navigation button with actions to navigate to the instructions screen ----------> CHECK
 
-7. Create a new Instruction destination that includes:
+7. Create a new Instruction destination that includes: ----------> CHECK
 
    * A new layout ----------> CHECK
    * At least 2 textviews ----------> CHECK
-   * A navigation button with actions to navigate to the shoe list screen
+   * A navigation button with actions to navigate to the shoe list screen ----------> CHECK
 
 8. Create a class that extends ViewModel
 
@@ -50,7 +50,7 @@ Open the starter project in Android Studio
 
 9. Create a new Shoe List destination that includes:
 
-   * A new layout
+   * A new layout ----------> CHECK
    * A ScrollView
    * A LinearLayout for Shoe Items
    * A FloatingActionButton with an action to navigate to the shoe detail screen
