@@ -17,6 +17,12 @@
     <!-- SHOES LIST -->
     <string name="shoeslist">I am ready</string>
     <!-- ADD A NEW SHOE -->
+    <string name="newshoe_name">Name</string>
+    <string name="newshoe_company">Company</string>
+    <string name="newshoe_size">Size</string>
+    <string name="newshoe_description">Description</string>
+    <string name="newshoe_button_save_shoe">Save shoe</string>
+    <string name="newshoe_button_cancel">Cancel</string>
 
 
 </resources>

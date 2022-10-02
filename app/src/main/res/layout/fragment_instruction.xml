@@ -10,6 +10,7 @@
 
         <TextView
             android:id="@+id/textViewInstructions"
+            style="@style/TextStandard"
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:layout_marginTop="256dp"
@@ -20,6 +21,7 @@
 
         <TextView
             android:id="@+id/textViewInstructionsDescription"
+            style="@style/TextStandard"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
@@ -30,7 +32,7 @@
 
         <Button
             android:id="@+id/InstructionsIAmReadyButton"
-            style="@style/button_standard"
+            style="@style/ButtonStandard"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="32dp"

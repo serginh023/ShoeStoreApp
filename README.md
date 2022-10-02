@@ -48,7 +48,7 @@ Open the starter project in Android Studio
 
    *  Use a LiveData field that returns the list of shoes
 
-9. Create a new Shoe List destination that includes:
+9. Create a new Shoe List destination that includes: ----------> CHECK
 
    * A new layout ----------> CHECK
    * A ScrollView ----------> CHECK
@@ -59,13 +59,13 @@ Open the starter project in Android Studio
 
 11. Create a new Shoe Detail destination that includes:
 
-    * A new layout
+    * A new layout ----------> CHECK
     * A TextView label and EditView for the
-      * Shoe Name
-      * Company
-      * Shoe Size
-      * Description
-    * A Cancel button with an action to navigate back to the shoe list screen
+      * Shoe Name ----------> CHECK
+      * Company ----------> CHECK
+      * Shoe Size ----------> CHECK
+      * Description ----------> CHECK
+    * A Cancel button with an action to navigate back to the shoe list screen ----------> CHECK
     * A Save button with an action to navigate back to the shoe list screen and add a new Shoe to the Shoe View Model
 
 12. Make sure you can’t go back to onboarding screens

@@ -61,7 +61,7 @@
 
         <Button
             android:id="@+id/buttonCreateNewLogin"
-            style="@style/button_standard"
+            style="@style/ButtonStandard"
             android:layout_marginStart="32dp"
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
@@ -74,7 +74,7 @@
 
         <Button
             android:id="@+id/buttonLogging"
-            style="@style/button_standard"
+            style="@style/ButtonStandard"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="32dp"

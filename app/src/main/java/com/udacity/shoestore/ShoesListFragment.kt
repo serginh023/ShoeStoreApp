@@ -20,6 +20,8 @@ class ShoesListFragment : Fragment() {
         container,
         false)
 
+
+
         return binding.root
     }
 
