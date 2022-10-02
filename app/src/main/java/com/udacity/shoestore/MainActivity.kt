@@ -1,13 +1,16 @@
 package com.udacity.shoestore
 
+import com.udacity.shoestore.models.ShoeViewModel
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
+import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
 import com.udacity.shoestore.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+    lateinit var viewModel: ShoeViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -18,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         val navController = this.findNavController(R.id.myNavHostFragment)
         NavigationUI.setupActionBarWithNavController(this, navController)
 
+        viewModel = ViewModelProvider(this).get(ShoeViewModel::class.java)
     }
 
     override fun onSupportNavigateUp(): Boolean {
